@@ -6,6 +6,7 @@ Directory for React Components Hub
 ## 📑 Table of Contents
 
 - [Component Library (5)](#component-library)
+- [UI Components (2)](#ui-components)
 
 
 ## Component Library
@@ -15,6 +16,11 @@ Directory for React Components Hub
 - [Material UI (MUI)](https://mui.com/) - React component library based on Google's Material Design principles. Offers a wide range of buttons, navigation elements, and data tables. ([Read more](/details/material-ui-mui.md)) `Open Source` `Material Design` `Enterprise`
 - [Shadcn/UI](https://ui.shadcn.com/) - Popular React component library with copy-paste installation model and 84k+ GitHub stars. Focuses on code ownership and customization. ([Read more](/details/shadcnui.md)) `Open Source` `Tailwind Css` `Customizable`
 - [Magic UI](https://magic.ui/) - React component library focused on animations and complex designs built with Tailwind CSS. Requires copy-paste installation. ([Read more](/details/magic-ui.md)) `Open Source` `Tailwind Css` `Animations`
+
+## UI Components
+
+- [Material UI](https://github.com/mui/material-ui) - Comprehensive React component library implementing Google's Material Design with 150+ pre-built components. ([Read more](/details/material-ui.md)) `Material Design` `Component Library` `Open Source`
+- [React Modal](https://github.com/react-modal/react-modal) - Fully accessible modal dialog for React with customizable styles and features. ([Read more](/details/react-modal.md)) `Modal` `Accessible` `Open Source`
 
 
 ## ™️ Legal
