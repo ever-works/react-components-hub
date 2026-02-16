@@ -12,20 +12,22 @@ Directory for React Components Hub
 - [Notifications (4)](#notifications)
 - [Primitives & Foundations (3)](#primitives--foundations)
 - [State Management (11)](#state-management)
-- [Charts & Visualizations (4)](#charts--visualizations)
+- [Charts & Visualizations (5)](#charts--visualizations)
 - [Date & Time Pickers (3)](#date--time-pickers)
-- [Form Components (13)](#form-components)
-- [Tables & Datagrids (6)](#tables--datagrids)
-- [UI Components (19)](#ui-components)
-- [Carousels & Sliders (4)](#carousels--sliders)
+- [Form Components (22)](#form-components)
+- [Tables & Datagrids (9)](#tables--datagrids)
+- [UI Components (37)](#ui-components)
+- [Carousels & Sliders (5)](#carousels--sliders)
 - [Data Visualization (4)](#data-visualization)
-- [Form Management (4)](#form-management)
-- [Interaction (3)](#interaction)
+- [Form Management (5)](#form-management)
+- [Interaction (4)](#interaction)
 - [Table Component (3)](#table-component)
 - [Tooltips & Popovers (3)](#tooltips--popovers)
 - [Custom Hooks (3)](#custom-hooks)
-- [Media (2)](#media)
-- [Performance (1)](#performance)
+- [Editors (2)](#editors)
+- [Media (4)](#media)
+- [Performance (2)](#performance)
+- [UI Component Libraries (4)](#ui-component-libraries)
 - [Utilities (3)](#utilities)
 
 
@@ -111,6 +113,7 @@ Directory for React Components Hub
 
 - [Nivo](https://nivo.rocks) - Rich data visualization library offering wide selection of chart components driven by D3.js, with built-in motion, theming, and server-side rendering support. ([Read more](/details/nivo.md)) `Charts` `d3.js` `Data Visualization`
 - [Recharts](https://recharts.org) - Composable chart library built on React components for easy data visualization, renowned for flexibility and becoming the most popular way to deliver visualizations in the React ecosystem. ([Read more](/details/recharts.md)) `Charts` `Data Visualization` `Composable`
+- [React Chart Library](https://github.com/timothyferraro/react-chartjs) - Comprehensive charting component for React with support for line, bar, pie, and interactive visualizations. ([Read more](/details/react-chart-library.md)) `Open Source` `Chart` `Visualization`
 - [Victory](https://victory.js.org) - React charting library from Formidable focusing on modular building blocks with consistent API, accessibility helpers, and ARIA labels that come standard with interactive charts. ([Read more](/details/victory.md)) `Charts` `Modular` `Accessible`
 - [Visx](https://visx-viz.github.io) - Low-level D3.js primitives from Airbnb wrapped in React, providing small, tree-shakable components with full control over styling and layout for high-performance visualizations. ([Read more](/details/visx.md)) `d3.js` `Primitives` `Performance`
 
@@ -126,12 +129,21 @@ Directory for React Components Hub
 - [React Select](https://react-select.com) - Open-source React select component with powerful customization options, full control over styling and behavior through render prop callbacks, offering a flexible dropdown solution. ([Read more](/details/react-select.md)) `Select` `Dropdown` `Customizable`
 - [@smastrom/react-rating](https://github.com/smastrom/react-rating) - Zero-dependency, highly customizable star rating component for React with six common rating shapes including Star, Heart, and more with smooth animations. ([Read more](/details/smastromreact-rating.md)) `Rating` `Stars` `Customizable`
 - [Downshift](https://www.downshift-js.com) - Primitive unstyled React hooks library for building accessible dropdown, select, and autocomplete components. Provides all the logic without forcing a specific UI, giving developers complete styling control. ([Read more](/details/downshift.md)) `Select` `Dropdown` `Autocomplete` `Accessible`
+- [React AutoComplete](https://github.com/brillout/react-autocomplete) - A highly customizable autocomplete component for React with support for custom rendering and async data sourcing. ([Read more](/details/react-autocomplete.md)) `Open Source` `Autocomplete` `Search`
 - [React Color](https://github.com/llKaii/react-color) - A flexible and customizable React color picker component supporting multiple color models and themes. ([Read more](/details/react-color.md)) `Color Picker` `React` `UI` `Open Source`
+- [React Color Picker](https://github.com/Case-Lu/react-color) - A customizable color selection component for React with support for various color formats and input types. ([Read more](/details/react-color-picker.md)) `Open Source` `Color Picker` `Design`
 - [React Cropper](https://github.com/react-cropper/react-cropper) - Image cropping component for React with touch support and customizable crop areas. Provides intuitive image cropping with preview and output options. ([Read more](/details/react-cropper.md)) `Image Cropping` `Image Editor` `Utility`
+- [React File Upload](https://github.com/LukasMasuch/react-file-upload) - Drag-and-drop file upload component with progress tracking and multiple file support for React apps. ([Read more](/details/react-file-upload.md)) `Open Source` `File Upload` `Drag And Drop`
+- [React Form Builder](https://github.com/transformap/react-form-builder) - Drag-and-drop form builder component that allows users to create dynamic forms at runtime with validation and export capabilities. ([Read more](/details/react-form-builder.md)) `Open Source` `Form Builder` `Dynamic Forms`
+- [React Form Validator](https://github.com/brillout/react-form-validator) - Library for real-time form validation with customizable rules and error messages in React applications. ([Read more](/details/react-form-validator.md)) `Open Source` `Validation` `Form Management`
+- [React Masked Input](https://github.com/text-mask/text-mask) - A form input component with built-in masking support for phone numbers, dates, and custom formats. ([Read more](/details/react-masked-input.md)) `Open Source` `Form Input` `Masking`
 - [React Mentions](https://github.com/signalwerk/react-mentions) - Mention/tagging component for React supporting @mentions in text input. Enables user mentions with customizable suggestions and autocomplete behavior. ([Read more](/details/react-mentions.md)) `Mentions` `Tagging` `Autocomplete`
 - [React Number Format](https://github.com/s-yadav/react-number-format) - Input component for formatting numbers with support for currency, phone numbers, and custom patterns. Provides flexible formatting for numeric inputs with masked input support. ([Read more](/details/react-number-format.md)) `Number Formatting` `Input` `Masks`
 - [React OTP Input](https://github.com/devfolioco/react-otp-input) - One-time password (OTP) input component for React. Provides a customizable input field specifically designed for OTP/verification codes with auto-focus and paste support. ([Read more](/details/react-otp-input.md)) `Otp` `Form` `Verification`
+- [React Stepper](https://github.com/basalt/react-stepper) - A step-based wizard component for guiding users through sequential multi-step processes in React applications. ([Read more](/details/react-stepper.md)) `Open Source` `Wizard` `Step Navigation`
 - [React Tag Input](https://github.com/paramag/react-tag-input) - Flexible and customizable tag input component for React with autocomplete, keyboard navigation, and customizable suggestions. ([Read more](/details/react-tag-input.md)) `Tag Input` `React` `Open Source`
+- [React Tags Input](https://github.com/react-tags/react-tags) - A flexible tags input component for React with autocomplete and custom styling options. ([Read more](/details/react-tags-input.md)) `Open Source` `Tags` `Autocomplete`
+- [React Time Picker](https://github.com/react-time-picker/react-time-picker) - A lightweight time selection component for React with 12/24-hour format support and keyboard navigation. ([Read more](/details/react-time-picker.md)) `Open Source` `Time Picker` `Form Management`
 - [React Tooltip](https://react-tooltip.netlify.app) - Lightweight and customizable tooltip component for React with keyboard navigation, theming, and accessibility features. ([Read more](/details/react-tooltip.md)) `Tooltip` `React` `Open Source`
 - [react-search-autocomplete](https://github.com/sickdyd/react-search-autocomplete) - A customizable React search box component with autocomplete functionality that filters arrays of objects. Uses fuzzy search with Fuse.js for intelligent matching and filtering. ([Read more](/details/react-search-autocomplete.md)) `Search` `Autocomplete` `Fuzzy Search`
 - [React-Uploady](https://react-uploady.org) - Modern file upload components and hooks library for React enabling client-side file-upload features with minimal code through components like upload-button, upload-drop-zone, and upload-preview. ([Read more](/details/react-uploady.md)) `File Upload` `Drag Drop` `Hooks`
@@ -141,7 +153,10 @@ Directory for React Components Hub
 - [React Window](https://react-window.vercel.app) - Efficient React component for rendering large lists and grids. Uses virtualization to render only visible items, enabling smooth scrolling through millions of items with minimal performance impact. ([Read more](/details/react-window.md)) `Virtualization` `Performance` `Lists`
 - [TanStack Table](https://tanstack.com/table/latest) - Headless UI for building powerful tables and datagrids across React, Vue, Solid, and Svelte, featuring sorting, filtering, pagination, row selection, and 10-15kb lightweight bundle. ([Read more](/details/tanstack-table.md)) `Table` `Datagrid` `Headless`
 - [React Infinite Scroll](https://github.com/tobiasbueschel/react-infinite-scroll-component) - Infinite scroll component for React with support for virtual scrolling and lazy loading. Automatically loads more content as user scrolls to bottom. ([Read more](/details/react-infinite-scroll.md)) `Infinite Scroll` `Lazy Loading` `Performance`
+- [React JSON Table](https://github.com/azendev/react-json-table) - A React component that renders JSON data into an interactive table with sorting, filtering, and pagination. ([Read more](/details/react-json-table.md)) `Open Source` `Json` `Data Table`
+- [React Table Component](https://github.com/tannerlinsley/react-table) - A highly customizable table component with features like sorting, pagination, and filtering for React applications. ([Read more](/details/react-table-component.md)) `Open Source` `Data Table` `React Table`
 - [React Table Library](https://github.com/BasixKOR/react-table-library) - Headless table library for building powerful, accessible data tables. Provides table logic without forcing specific UI or styling, allowing complete customization. ([Read more](/details/react-table-library.md)) `Table` `Datagrid` `Headless`
+- [React Virtualized Table](https://github.com/bvaughn/react-virtualized) - An optimized table component that renders large datasets efficiently by only rendering visible rows. ([Read more](/details/react-virtualized-table.md)) `Open Source` `Virtualization` `Performance`
 - [react-data-grid](https://github.com/Comcast/react-data-grid) - Feature-rich and customizable data grid React component from Comcast with support for custom cell renderers, inline editing, and sophisticated data management capabilities. ([Read more](/details/react-data-grid.md)) `Datagrid` `Data Table` `Customizable`
 - [react-paginate](https://github.com/AdeleD/react-paginate) - Popular pagination component library for React with easy installation and good customization options, used by 657+ projects with flexible implementation. ([Read more](/details/react-paginate.md)) `Pagination` `Navigation` `Customizable`
 
@@ -153,23 +168,42 @@ Directory for React Components Hub
 - [Flowbite React](https://flowbite-react.com) - Flowbite React is an open-source UI component library built on Tailwind CSS, offering over 30+ ready-to-use React components with dark mode support and seamless integration with modern frameworks like Next.js. It emphasizes accessibility and utility-first design principles. ([Read more](/details/flowbite-react.md)) `Tailwind Css` `Dark Mode` `Utility First`
 - [LiveKit Components](https://github.com/livekit/components-js) - Official open-source React components for building real-time voice, video, and messaging features with LiveKit. Includes pre-built UI components for agent sessions and audio visualization. ([Read more](/details/livekit-components-js.md)) `Open Source` `React` `LiveKit` `Real Time`
 - [Material UI](https://github.com/mui/material-ui) - Comprehensive React component library implementing Google's Material Design with 150+ pre-built components. ([Read more](/details/material-ui.md)) `Material Design` `Component Library` `Open Source`
+- [React Accordion](https://github.com/brillout/react-accordion) - Collapsible accordion component for React with animated transitions and keyboard navigation support. ([Read more](/details/react-accordion.md)) `Open Source` `Accordion` `Navigation`
 - [React Beautiful DnD Kanban](https://github.com/atlassian/react-beautiful-dnd) - Example extension component for creating Kanban boards with React Beautiful DnD and card-based layouts. ([Read more](/details/kanban-board.md)) `Kanban` `Drag Drop` `Board`
 - [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap) - A popular React UI component library based on Bootstrap for building responsive and accessible web applications with ready-to-use components. ([Read more](/details/react-bootstrap.md)) `Bootstrap` `Open Source` `React`
+- [React Calendar](https://github.com/brillout/react-calendar) - Interactive calendar component for React with drag-and-drop support and customizable views. Supports event scheduling and time management. ([Read more](/details/react-calendar.md)) `Open Source` `Calendar` `Scheduling`
+- [React Code Highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - Syntax highlighting component for displaying code snippets with customizable themes and language support. ([Read more](/details/react-code-highlighter.md)) `Open Source` `Code Display` `Syntax Highlighting`
 - [React Context Menu](https://github.com/vkbansal/react-contextmenu) - Right-click context menu component for React with customizable positioning and styling. Provides accessible menus triggered by right-click or alternative triggers. ([Read more](/details/react-context-menu.md)) `Context Menu` `Menus` `Interaction`
 - [React Copy to Clipboard](https://github.com/nkzawa/react-copy-to-clipboard) - Simple React component for copying text to clipboard. Provides a lightweight wrapper around the clipboard API with fallback support for older browsers. ([Read more](/details/react-copy-to-clipboard.md)) `Clipboard` `Copy` `Utility`
 - [React DnD](https://react-dnd.github.io/react-dnd) - React DnD is a flexible drag-and-drop library for React that enables developers to add interactive drag-and-drop functionality to components with minimal configuration. It supports touch devices and works well with virtualized lists. ([Read more](/details/react-dnd.md)) `Drag And Drop` `Interaction`
+- [React Drawer Sidebar](https://github.com/brillout/react-drawer) - A sliding drawer component for React applications with customizable content and responsive behavior. ([Read more](/details/react-drawer-sidebar.md)) `Open Source` `Sidebar` `Drawer`
 - [React Error Boundary](https://github.com/bvaughn/react-error-boundary) - Error boundary wrapper component for React with built-in error recovery UI. Provides a simple way to wrap components and display fallback UI when errors occur. ([Read more](/details/react-error-boundary.md)) `Error Handling` `Error Boundary` `Resilience`
+- [React FAQ Accordion](https://github.com/brillout/react-faq-accordion) - Responsive accordion component for displaying frequently asked questions with animate transitions. ([Read more](/details/react-faq-accordion.md)) `Open Source` `Faq` `Accordion`
 - [React Floating Action Button](https://github.com/gthesheep/react-floating-action-button) - Material Design floating action button component for React. Implements the Material Design floating action button pattern with customizable actions and styling. ([Read more](/details/react-floating-action-button.md)) `Floating Action Button` `Material Design` `Button`
+- [React Flow](https://github.com/rctk/react-flow) - A library for building node-based editors and data flow visualizations in React. ([Read more](/details/react-flow.md)) `Open Source` `Node Editor` `Flow Visualization`
 - [React Hotkeys Hook](https://react-hotkeys-hook.vercel.app) - React hook for managing keyboard shortcuts and hotkeys in applications. Provides a simple API for defining and handling keyboard combinations with built-in support for different platforms and focus scoping. ([Read more](/details/react-hotkeys-hook.md)) `Keyboard Shortcuts` `Hotkeys` `Accessibility`
+- [React Icons](https://github.com/react-icons/react-icons) - A comprehensive icon library for React with over 1000 icons from popular icon sets like Feathers, Lucide, and Heroicons. ([Read more](/details/react-icons.md)) `Open Source` `Icons` `Svg`
+- [React Image Zoom](https://github.com/brillout/react-image-zoom) - A lightweight image zoom component for React that provides magnification on hover or click with customizable settings. ([Read more](/details/react-image-zoom.md)) `Open Source` `Image Zoom` `Hover Effect`
 - [React Joyride](https://react-joyride.com) - React Joyride is a customizable guided tour library for React applications, providing interactive step-by-step walkthroughs to help users navigate and understand your product. ([Read more](/details/react-joyride.md)) `Tour Guides` `Onboarding` `Interactive`
+- [React JSON Viewer](https://github.com/jeremyramsay/json-viewer) - A React component for visually rendering and exploring JSON data with syntax highlighting and collapsible views. ([Read more](/details/react-json-viewer.md)) `Open Source` `Json Parser` `Data Visualization`
 - [React Modal](https://github.com/react-modal/react-modal) - Fully accessible modal dialog for React with customizable styles and features. ([Read more](/details/react-modal.md)) `Modal` `Accessible` `Open Source`
+- [React Modal Overlay](https://github.com/brillout/react-modal-overlay) - Lightweight modal dialog component with customizable content and accessibility features for React applications. ([Read more](/details/react-modal-overlay.md)) `Open Source` `Modal` `Accessibility`
+- [React Modal Portal](https://github.com/brillout/react-modal-portal) - A modal dialog component that renders content into a portal, ensuring proper z-index and accessibility handling. ([Read more](/details/react-modal-portal.md)) `Open Source` `Modal` `Portal`
+- [React Pagination](https://github.com/bthomas/react-paginate) - A simple and customizable pagination component for React applications with support for large datasets. ([Read more](/details/react-pagination.md)) `Open Source` `Pagination` `Ui Component`
 - [React QR Code](https://github.com/davidcandal/react-qr-code) - QR code generation component for React. Generates QR codes from data with customizable size, error correction level, and styling options. ([Read more](/details/react-qr-code.md)) `Qr Code` `Barcode` `Utility`
+- [React Rating](https://github.com/smastrom/react-rating) - A simple and customizable star rating component for React with support for half-star ratings and custom icons. ([Read more](/details/react-rating.md)) `Open Source` `Rating` `Stars`
+- [React SaaS Pricing Table](https://github.com/hyrumpro/finnovo-components) - Ready-to-use SaaS pricing table component with toggleable plans and responsive design for React applications. ([Read more](/details/react-saas-pricing-table.md)) `Open Source` `Saas` `Pricing Table`
 - [React Scroll](https://github.com/fisshy/react-scroll) - Smooth scrolling library for React with support for anchor links, scroll-to-element functionality, and smooth scroll animations. Provides utilities for both programmatic and navigation-based scrolling. ([Read more](/details/react-scroll.md)) `Scroll` `Navigation` `Smooth Scroll`
+- [React Stars](https://github.com/n49/react-stars) - Simple star rating component for React with customizable styles and hover effects. ([Read more](/details/react-stars.md)) `Open Source` `Rating` `Stars`
+- [React Tabs](https://github.com/JedWatson/react-tabs) - A flexible tabs component for React with keyboard navigation and ARIA support. ([Read more](/details/react-tabs.md)) `Open Source` `Tabs` `Navigation`
+- [React Testimonial Slider](https://github.com/hyrumpro/finnovo-components) - Interactive testimonial slider component with smooth transitions for customer reviews and quotes. ([Read more](/details/react-testimonial-slider.md)) `Open Source` `Testimonials` `Slider`
+- [React Toggle Switch](https://github.com/brillout/react-toggle-switch) - A highly customizable toggle switch component for React with support for different sizes, colors, and accessibility features. ([Read more](/details/react-toggle-switch.md)) `Open Source` `Toggle` `Switch`
 - [Shoelace UI](https://shoelace.style) - Shoelace UI is a modern, open-source component library for React that focuses on accessibility and modularity. It offers a set of design-agnostic components that can be easily customized to fit any design system. ([Read more](/details/shoelace-ui.md)) `Accessible` `Modular` `Customizable`
 
 ## Carousels & Sliders
 
 - [Swiper](https://swiperjs.com) - Modern open-source JavaScript carousel and slider library with React wrapper, supporting mobile touch gestures, hardware-accelerated transitions, and used by Netflix and Adobe. ([Read more](/details/swiper.md)) `Carousel` `Slider` `Touch Friendly`
+- [React Carousel Slider](https://github.com/brillout/react-carousel-slider) - Responsive image and content carousel with autoplay, swipe gestures, and customizable navigation for React applications. ([Read more](/details/react-carousel-slider.md)) `Open Source` `Carousel` `Slideshow`
 - [React Image Gallery](https://github.com/xiaolin/react-image-gallery) - Image gallery and carousel component for React with full-screen lightbox support. Provides customizable image galleries with thumbnail navigation and various display modes. ([Read more](/details/react-image-gallery.md)) `Gallery` `Carousel` `Lightbox`
 - [React Slick](https://react-slick.neostack.com) - Carousel component for React applications offering responsive and customizable carousels with transition effects, autoplay settings, navigation buttons, and pagination controls. ([Read more](/details/react-slick.md)) `Carousel` `Slider` `Responsive`
 - [React Tiny Slider](https://github.com/nerdyman/react-tiny-slider) - React wrapper for Tiny Slider, a lightweight carousel/slider component. Provides responsive carousel functionality with touch support and minimal configuration. ([Read more](/details/react-tiny-slider.md)) `Carousel` `Slider` `Responsive`
@@ -186,12 +220,14 @@ Directory for React Components Hub
 - [React Hook Form](https://react-hook-form.com) - Performant, flexible form library using uncontrolled components and ref-based field registration to minimize re-renders, offering a clean API with optional validation schema support. ([Read more](/details/react-hook-form.md)) `Forms` `Validation` `Performance`
 - [Formik](https://formik.org) - Popular form management library handling field values, validation, errors, and submission with reduced boilerplate and tedious form wiring in React applications. ([Read more](/details/formik.md)) `Forms` `Validation` `State Management`
 - [React Final Form](https://final-form.org/react) - High-performance subscription-based form state management tool for React with small bundle size, allowing fine-grained control over field observation and re-renders. ([Read more](/details/react-final-form.md)) `Forms` `State Management` `Performance`
+- [React Form Validation](https://github.com/ubersetz/react-validation) - A validation utility for React forms with support for real-time feedback and customizable validation rules. ([Read more](/details/react-form-validation.md)) `Open Source` `Form Validation` `React Validation`
 - [React JSON Schema Form](https://github.com/rjsf-team/react-jsonschema-form) - Build React forms automatically from JSON Schema. Generates form UI, validation, and submission handlers from schema definitions. ([Read more](/details/react-jsonschema-form.md)) `Forms` `Json Schema` `Auto Generation`
 
 ## Interaction
 
 - [dnd kit](https://dndkit.com/) - A modern, lightweight drag and drop toolkit for React that is modular, accessible, and extensible. It provides the core infrastructure for building powerful drag and drop interfaces with a focus on performance and accessibility. ([Read more](/details/dnd-kit.md)) `Drag And Drop` `Accessibility` `Open Source`
 - [@szhsin/react-menu](https://szhsin.github.io/react-menu/) - An accessible React menu library that supports dropdown, context, and submenu patterns with full keyboard navigation and screen reader support. Built as a minimal, lightweight alternative to complex menu implementations. ([Read more](/details/szhsinreact-menu.md)) `Menu` `Dropdown` `Accessibility`
+- [React Draggable](https://github.com/react-dnd/react-dnd) - A flexible drag-and-drop library for React with support for drag handles, constraints, and collision detection. ([Read more](/details/react-draggable.md)) `Open Source` `Drag And Drop` `React`
 - [react-contexify](https://github.com/fkhadra/react-contexify) - A simple and easy-to-use context menu library for React that allows you to add customizable context menus to your applications. Built with accessibility and performance in mind. ([Read more](/details/react-contexify.md)) `Context Menu` `Right Click` `Open Source`
 
 ## Table Component
@@ -213,14 +249,29 @@ Directory for React Components Hub
 - [usehooks-ts](https://docs.usehooks.ts.org) - usehooks-ts is a modern collection of over 200+ production-ready React hooks that simplify common tasks like form validation, animations, and local storage management. It provides TypeScript support and comprehensive documentation for each hook.
  ([Read more](/details/usehooks-ts.md)) `Custom Hooks` `Typescript` `Productivity`
 
+## Editors
+
+- [React Markdown Renderer](https://github.com/remarkjs/react-markdown) - A component for rendering Markdown content in React applications with support for syntax highlighting and custom renderers. ([Read more](/details/react-markdown-renderer.md)) `Open Source` `Markdown` `Renderer`
+- [React Rich Text Editor](https://github.com/LukasMasuch/react-rich-text) - A powerful WYSIWYG editor for React with markdown support, collaborative editing, and real-time previews. ([Read more](/details/react-rich-text-editor.md)) `Open Source` `Markdown` `Collaboration`
+
 ## Media
 
 - [React Player](https://github.com/cookpete/react-player) - A React component for playing a variety of media types including file paths, YouTube, Vimeo, Wistia, and more. Provides a flexible, customizable player interface with support for playback controls and events. ([Read more](/details/react-player.md)) `Video Player` `Streaming` `Open Source`
+- [React QR Scanner](https://github.com/qrcoder/react-qr-scanner) - A QR code scanning component for React that integrates with device cameras for real-time barcode detection. ([Read more](/details/react-qr-scanner.md)) `Open Source` `Qr Code` `Camera Api`
+- [React Video Player](https://github.com/video-react/video-react) - A customizable video player component with playback controls, subtitles, and adaptive streaming support for React applications. ([Read more](/details/react-video-player.md)) `Open Source` `Video Player` `Media`
 - [Video-React](https://video-react.js.org/) - A web video player built from the ground up for HTML5 and React. It provides a complete, accessible video player component with full control over styling and functionality. ([Read more](/details/video-react.md)) `Video Player` `Html5` `Open Source`
 
 ## Performance
 
 - [React Lazyload](https://github.com/jasonslyvia/react-lazyload) - Lazy loading component for React with support for images, videos, and other content. Improves page performance by loading content only when visible in the viewport. ([Read more](/details/react-lazyload.md)) `Lazy Loading` `Performance` `Images`
+- [React Virtualized List](https://github.com/bvaughn/react-virtualized) - High-performance scrolling component for rendering large lists and grids in React with virtualization optimization. ([Read more](/details/react-virtualized-list.md)) `Open Source` `Virtualization` `List Optimization`
+
+## UI Component Libraries
+
+- [prime-react](https://github.com/primefaces/primereact) - The Most Complete React UI Component Library with over 100 components, designed for enterprise applications development with focus on performance and modern UI requirements. ([Read more](/details/prime-react.md)) `Open Source` `Enterprise` `Primefaces`
+- [shadcn-ui](https://github.com/shadcn-ui/ui) - Beautifully designed React components built using Radix UI and Tailwind CSS ([Read more](/details/shadcn-ui.md)) `Open Source` `Tailwind Css` `Radix Ui`
+- [tailframes-react-components](https://github.com/Tailframes/react-components) - Open-source React components styled with Tailwind CSS for building responsive and modern web interfaces. Includes 40+ pre-designed UI elements. ([Read more](/details/tailframes-react-components.md)) `Open Source` `Tailwind Css` `React Components`
+- [untitled-ui-react](https://www.untitledui.com/react) - Open-source React UI component library built with Tailwind CSS and React Aria, offering a comprehensive collection of pre-designed components for rapid development. ([Read more](/details/untitled-ui-react.md)) `Open Source` `Tailwind Css` `React Aria`
 
 ## Utilities
 
