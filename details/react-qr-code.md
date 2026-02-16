@@ -6,7 +6,7 @@ React QR Code is a simple component that generates QR codes from data, making it
 
 - **Simple API**: One-line QR code generation
 - **Customizable**: Size, level, styling
-- **SVG Output**: Scalable vector graphics
+- **SVG Output**: Scalpable vector graphics
 - **Error Correction**: Multiple error levels
 - **Dark/Light Mode**: Theming support
 - **TypeScript**: Type support

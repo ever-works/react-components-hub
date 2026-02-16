@@ -1,8 +1,6 @@
 # React Components Hub
 
 Directory for React Components Hub
-
-
 ## 📑 Table of Contents
 
 - [UI Component Library (14)](#ui-component-library)
@@ -190,7 +188,7 @@ Directory for React Components Hub
 - [React Modal Overlay](https://github.com/brillout/react-modal-overlay) - Lightweight modal dialog component with customizable content and accessibility features for React applications. ([Read more](/details/react-modal-overlay.md)) `Open Source` `Modal` `Accessibility`
 - [React Modal Portal](https://github.com/brillout/react-modal-portal) - A modal dialog component that renders content into a portal, ensuring proper z-index and accessibility handling. ([Read more](/details/react-modal-portal.md)) `Open Source` `Modal` `Portal`
 - [React Pagination](https://github.com/bthomas/react-paginate) - A simple and customizable pagination component for React applications with support for large datasets. ([Read more](/details/react-pagination.md)) `Open Source` `Pagination` `Ui Component`
-- [React QR Code](https://github.com/davidcandal/react-qr-code) - QR code generation component for React. Generates QR codes from data with customizable size, error correction level, and styling options. ([Read more](/details/react-qr-code.md)) `Qr Code` `Barcode` `Utility`
+- [React QR Code](https://reactqrcode.com/) - QR code generation component for React. Generates QR codes from data with customizable size, error correction level, and styling options. ([Read more](/details/react-qr-code.md)) `Qr Code` `Barcode` `Utility`
 - [React Rating](https://github.com/smastrom/react-rating) - A simple and customizable star rating component for React with support for half-star ratings and custom icons. ([Read more](/details/react-rating.md)) `Open Source` `Rating` `Stars`
 - [React SaaS Pricing Table](https://github.com/hyrumpro/finnovo-components) - Ready-to-use SaaS pricing table component with toggleable plans and responsive design for React applications. ([Read more](/details/react-saas-pricing-table.md)) `Open Source` `Saas` `Pricing Table`
 - [React Scroll](https://github.com/fisshy/react-scroll) - Smooth scrolling library for React with support for anchor links, scroll-to-element functionality, and smooth scroll animations. Provides utilities for both programmatic and navigation-based scrolling. ([Read more](/details/react-scroll.md)) `Scroll` `Navigation` `Smooth Scroll`
