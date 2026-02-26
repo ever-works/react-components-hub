@@ -1,30 +1,63 @@
 ## Overview
 
-SVAR React Gantt is a free, open-source Gantt chart solution under MIT license. It provides strong balance of flexibility, performance, and ease of customization for project timeline management.
+SVAR React Gantt is an open-source, high-performance Gantt chart component with flexible timeline configuration and comprehensive project management features. It's MIT licensed and free for both open-source and commercial projects.
 
 ## Features
 
-- Intuitive drag-and-drop UI for task management
-- Change task start and end dates by dragging
-- Adjust task duration directly on timeline
-- Add and remove task dependencies
-- Double-click task editing
-- Optimized rendering engine for large datasets
-- Dynamic loading support
-- Full React 18 and 19 compatibility
+- Interactive timeline view
+- Drag-and-drop task management
+- Task dependencies (FS, SS, FF, SF)
+- Customizable grid columns
+- Task progress tracking
+- Resource assignment
+- Zoom levels for timeline
+- Export to PDF/PNG
+- Virtual scrolling
 - TypeScript support
-- Customizable time scales
-- Task bar customization
-- Flexible grid columns
-- Task editor forms
+- Responsive design
+- Real-time updates
+- Custom task rendering
+- Keyboard navigation
 
-## Performance
+## PRO Edition Features
 
-- Handles thousands of tasks smoothly
-- Virtual scrolling for efficiency
-- Optimized re-rendering
-- Lightweight bundle size
+- Timeline markers
+- Baseline tracking
+- Unscheduled tasks
+- Working days calendar
+- Auto-scheduling
+- Resource leveling
+- Advanced constraints
+- Multi-project support
+
+## Task Properties
+
+- Start and end dates
+- Duration
+- Progress percentage
+- Dependencies
+- Resources
+- Priority levels
+- Custom fields
+
+## Timeline Views
+
+- Day view
+- Week view
+- Month view
+- Quarter view
+- Year view
+- Custom scales
+
+## Use Cases
+
+- Project management tools
+- Resource planning
+- Production scheduling
+- Construction planning
+- Event management
+- Sprint planning
 
 ## Pricing
 
-Free and open-source under MIT license.
+Open-source (MIT license). PRO Edition available with additional features.

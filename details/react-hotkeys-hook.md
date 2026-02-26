@@ -1,43 +1,59 @@
 ## Overview
 
-React Hotkeys Hook makes it simple to add keyboard shortcuts to React applications with a hook-based API and no complex setup.
-
-## Key Features
-
-- **Hook-Based API**: Simple import and use
-- **Modifier Keys**: Support for Ctrl, Shift, Alt, Meta
-- **Multiple Keys**: Combine multiple keys
-- **Platform-Specific**: Different shortcuts for Mac/Windows
-- **Focus Scoping**: Only active when focus is correct
-- **TypeScript Support**: Fully typed
-- **SSR Compatible**: Works with server-side rendering
-- **No Dependencies**: Lightweight and fast
-
-## Basic Usage
-
-```jsx
-const { handlers } = useHotkeys('ctrl+k', () => {
-  console.log('Ctrl+K pressed')
-})
-```
+react-hotkeys-hook is the most popular React hook for managing keyboard shortcuts declaratively. With over 2 million weekly downloads, it provides a modern, hook-based API for adding keyboard shortcuts to components.
 
 ## Features
 
-- **Global Shortcuts**: Define application-wide hotkeys
-- **Component-Scoped**: Limit to specific components
-- **Combination Keys**: Ctrl+Shift+S, Cmd+K, etc.
-- **Platform Detection**: Auto-detect Mac vs Windows
-- **Active/Inactive**: Enable/disable hotkeys
-- **Multiple Handlers**: Bind multiple callbacks
-- **Event Prevention**: Prevent default behavior
+- Hook-based API (useHotkeys)
+- Scope hotkeys to components
+- Ref-based element scoping
+- Vim-style command sequences
+- Complex keyboard combinations
+- Global and local scopes
+- Key collision prevention
+- isHotkeyPressed function
+- Modifier key support (Ctrl, Alt, Shift, Meta)
+- Custom key separator
+- KeyboardEvent access
+- TypeScript support
+- SSR compatible
+- Lightweight bundle
 
-## Common Use Cases
+## API
 
-- Command Palette (Cmd/Ctrl+K)
-- Search Activation (Cmd/Ctrl+F)
-- Navigation Shortcuts
-- Global Actions (Save, Delete, etc.)
-- Modal Shortcuts (ESC to close)
+- useHotkeys(keys, callback, options): Main hook
+- isHotkeyPressed(key): Check key state
+- Scopes for grouping hotkeys
+- preventDefault option
+- enabled/disabled state
+- splitKey customization
+
+## Supported Keys
+
+- Letter keys (a-z)
+- Number keys (0-9)
+- Modifier keys (ctrl, alt, shift, meta)
+- Function keys (F1-F12)
+- Special keys (enter, escape, space, tab, etc.)
+- Arrow keys
+- Custom combinations
+
+## Scoping
+
+- Global scope (default)
+- Component-specific scopes
+- Ref-based element focus
+- Dynamic scope switching
+
+## Use Cases
+
+- Application keyboard shortcuts
+- Text editor commands
+- Modal keyboard navigation
+- Game controls
+- Accessibility shortcuts
+- Power user features
+- Form navigation
 
 ## Pricing
 
