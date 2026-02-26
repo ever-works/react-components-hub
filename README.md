@@ -16,13 +16,13 @@ Directory for React Components Hub
 - [Tables & Datagrids (9)](#tables--datagrids)
 - [UI Components (37)](#ui-components)
 - [Carousels & Sliders (5)](#carousels--sliders)
-- [Data Visualization (4)](#data-visualization)
+- [Data Visualization (9)](#data-visualization)
 - [Form Management (5)](#form-management)
 - [Interaction (4)](#interaction)
 - [Table Component (3)](#table-component)
 - [Tooltips & Popovers (3)](#tooltips--popovers)
 - [Custom Hooks (3)](#custom-hooks)
-- [Editors (2)](#editors)
+- [Editors (4)](#editors)
 - [Media (4)](#media)
 - [Performance (2)](#performance)
 - [UI Component Libraries (4)](#ui-component-libraries)
@@ -209,9 +209,14 @@ Directory for React Components Hub
 ## Data Visualization
 
 - [React Map GL](https://github.com/visgl/react-map-gl) - React wrapper for Mapbox GL, providing interactive maps with layers, markers, and complex visualizations. Enables building map-based interfaces with full customization and real-time updates. ([Read more](/details/react-map-gl.md)) `Maps` `Geospatial` `Mapbox`
+- [React Accessible Treeview](https://www.npmjs.com/package/react-accessible-treeview) - A WAI-ARIA compliant React tree view component with comprehensive accessibility support, highly customizable through render props and prop getters, and support for keyboard navigation. ([Read more](/details/react-accessible-treeview.md)) `Tree View` `Accessibility` `Aria Compliant`
+- [React Arborist](https://github.com/brimdata/react-arborist) - The complete tree view component for React, enabling creation of hierarchical UIs similar to VSCode sidebar, Mac Finder, or Figma layers panel with drag-and-drop support and efficient rendering of thousands of items. ([Read more](/details/react-arborist.md)) `Tree View` `Drag Drop` `Open Source`
+- [React Kanban](https://github.com/asseinfo/react-kanban) - A flexible, open-source Kanban/Trello board library for React supporting both controlled and uncontrolled modes with comprehensive drag-and-drop functionality. ([Read more](/details/react-kanban.md)) `Kanban` `Drag Drop` `Board`
 - [React Leaflet](https://react-leaflet.js.org/) - React components for Leaflet, an open-source JavaScript mapping library. React Leaflet provides a declarative, React-friendly way to build interactive maps with markers, layers, and geographic features. ([Read more](/details/react-leaflet.md)) `Maps` `Geospatial` `Open Source`
+- [React Trello](https://github.com/rcdexta/react-trello) - Pluggable components to add a Trello-like kanban board to your React application with drag-and-drop support, responsive design, pagination, and touch device compatibility. ([Read more](/details/react-trello.md)) `Kanban` `Drag Drop` `Trello Like`
 - [React Vis](https://github.com/uber/react-vis) - React Vis is a set of reusable visualization components for React, built on top of D3.js with a declarative API. It supports a wide range of chart types and provides highly customizable data visualizations for React applications. ([Read more](/details/react-vis.md)) `D3js` `React Charts` `Customizable`
 - [Reaviz](https://github.com/reaviz/reaviz) - Reaviz is a modular React data visualization library leveraging D3.js for rendering charts. It offers over 20 chart types with customizable features like interactive tooltips, animations, and responsive design systems for building complex data visualizations. ([Read more](/details/reaviz.md)) `D3js` `React Charts` `Modular`
+- [SVAR React Gantt](https://svar.dev/react/gantt/) - A modern, high-performance open-source Gantt chart library for React with MIT license, featuring intuitive drag-and-drop UI, optimized rendering for large datasets, and full React 18+ compatibility. ([Read more](/details/svar-react-gantt.md)) `Gantt Chart` `Timeline` `Project Management`
 
 ## Form Management
 
@@ -251,6 +256,8 @@ Directory for React Components Hub
 
 - [React Markdown Renderer](https://github.com/remarkjs/react-markdown) - A component for rendering Markdown content in React applications with support for syntax highlighting and custom renderers. ([Read more](/details/react-markdown-renderer.md)) `Open Source` `Markdown` `Renderer`
 - [React Rich Text Editor](https://github.com/LukasMasuch/react-rich-text) - A powerful WYSIWYG editor for React with markdown support, collaborative editing, and real-time previews. ([Read more](/details/react-rich-text-editor.md)) `Open Source` `Markdown` `Collaboration`
+- [React Simple Code Editor](https://github.com/react-simple-code-editor/react-simple-code-editor) - A lightweight code editor component for React with syntax highlighting support, designed for simplicity without extra features, perfect for embedded code editing in forms and applications. ([Read more](/details/react-simple-code-editor.md)) `Code Editor` `Syntax Highlighting` `Lightweight`
+- [React Textarea Code Editor](https://uiwjs.github.io/react-textarea-code-editor/) - A simple code editor component with syntax highlighting built on textarea elements, providing lightweight code editing without extra features, ideal for simple embeds and forms. ([Read more](/details/react-textarea-code-editor.md)) `Code Editor` `Syntax Highlighting` `Textarea`
 
 ## Media
 
