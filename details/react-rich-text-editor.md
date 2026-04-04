@@ -11,10 +11,6 @@ React Rich Text Editor is a feature-rich WYSIWYG editor for React applications. 
 - Offline storage support
 - Accessible keyboard shortcuts
 
-## Installation
+## Pricing
 
-`npm install react-rich-text-editor`
-
-## License
-
-MIT License
+Free and open-source under the MIT license.

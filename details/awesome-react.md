@@ -4,7 +4,7 @@ A comprehensive collection of React-related tools, libraries, and resources main
 
 ## Features
 
-- 72k+ stars on GitHub
+- 50k+ stars on GitHub
 - Community-curated list
 - Wide range of React ecosystem components
 

@@ -1,20 +1,5 @@
-## Overview
+# React Calendar
 
-React Calendar is an interactive calendar component designed for React applications. It supports drag-and-drop event management, multiple calendar views, and custom event handling.
+Ultimate calendar component for React applications. Provides a flexible and customizable calendar UI for date selection and event display.
 
-## Features
-
-- Monthly, weekly, and daily views
-- Drag-and-drop event scheduling
-- Recurring event support
-- Customizable calendar themes
-- Keyboard navigation
-- Accessibility compliant
-
-## Installation
-
-`npm install react-calendar`
-
-## License
-
-MIT License
+[https://github.com/wojtekmaj/react-calendar](https://github.com/wojtekmaj/react-calendar)

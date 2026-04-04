@@ -4,17 +4,13 @@ React File Upload is a modern file upload component for React applications that 
 
 ## Features
 
-- Drag-and-drop file selection
-- Multiple file upload support
-- Progress tracking with visual indicators
-- File type validation
-- Customizable UI components
+- Drag-and-drop file selection with visual feedback
+- Multiple file upload support with individual progress
+- File type and size validation
+- Customizable upload endpoints
+- Thumbnail previews for images
 - Server-side upload handling
 
-## Installation
+## Pricing
 
-`npm install react-file-upload`
-
-## License
-
-MIT License
+Free and open-source under the MIT license.

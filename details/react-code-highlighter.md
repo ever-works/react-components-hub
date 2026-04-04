@@ -1,19 +1,16 @@
 ## Overview
 
-React Code Highlighter provides syntax highlighting for code snippets in React applications with multiple language and theme support.
+React Syntax Highlighter is a lightweight and comprehensive syntax highlighting component for React with Prism.js and highlight.js support.
 
 ## Features
 
-- 120+ programming languages
-- 40+ syntax themes
-- Line number support
-- Copy-to-clipboard button
-- Responsive code blocks
+- Support for 180+ languages via Prism or highlight.js
+- 40+ visual themes
+- Line numbers and line highlighting
+- Custom style component overrides
+- Lazy loading for large code blocks
+- Copy-to-clipboard integration
 
-## Installation
+## Pricing
 
-`npm install react-syntax-highlighter`
-
-## License
-
-MIT License
+Free and open-source under the MIT license.

@@ -1,12 +1,12 @@
 ## Overview
 
-Aceternity UI is the most popular animated UI component library, offering over 200 free components, blocks, and templates. It's designed as a copy-paste solution where components become your code after integration.
+Aceternity UI offers a large collection of free, copy-paste animated components, blocks, and templates for building modern web interfaces. It's designed as a copy-paste solution where components become your code after integration.
 
 ## Features
 
-- **200+ Components**: Extensive library of animated components
+- **1000+ Components**: Extensive library of animated components and effects
 - **Copy & Paste**: Easy integration into your projects
-- **Framer Motion**: Powered by Framer Motion animations
+- **Motion Powered**: Powered by Motion (formerly Framer Motion) animations
 - **Tailwind CSS**: Built with Tailwind for easy styling
 - **Next.js Ready**: Optimized for Next.js applications
 - **TypeScript**: Full TypeScript support
@@ -42,31 +42,6 @@ Aceternity UI is the most popular animated UI component library, offering over 2
 - Timeline components
 - Feature sections
 
-## Animation Effects
-
-- Smooth transitions
-- Parallax scrolling
-- Reveal on scroll
-- Hover interactions
-- Gradient animations
-- Noise textures
-- Motion blur
-- Scale and rotation
-
-## Use Cases
-
-- Modern landing pages
-- SaaS marketing sites
-- Portfolio websites
-- Product showcases
-- Agency websites
-- Startup pages
-- Creative projects
-
-## Design Philosophy
-
-Aceternity UI focuses on beautiful, eye-catching animations that enhance user experience. All components are designed to be production-ready and performant.
-
 ## Pricing
 
-Free components available. Premium templates and blocks available for purchase.
+All components, blocks, and templates are available for free.

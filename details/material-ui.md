@@ -3,12 +3,13 @@
 Material UI is a comprehensive React component library that implements Google's Material Design specifications. It provides 150+ pre-built components for rapid application development.
 
 ## Features
--s 150+ battle-tested components
--s Full Material Design implementation
--s Theme customization system
--s Accessibility compliance
--s Complete documentation
--s Production-ready components
+
+- 150+ battle-tested components
+- Full Material Design implementation
+- Theme customization system
+- Accessibility compliance
+- Complete documentation
+- Production-ready components
 
 ## Installation
 

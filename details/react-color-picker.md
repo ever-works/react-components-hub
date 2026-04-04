@@ -4,16 +4,8 @@ React Color Picker provides an intuitive interface for selecting colors in React
 
 ## Features
 
-- Multiple color representation modes
+- Multiple color representation modes with real-time conversion
 - Eye-dropper tool for screen color selection
-- Slider and input field controls
-- Customizable swatch previews
-- Accessibility attributes
-
-## Installation
-
-`npm install react-color`
-
-## License
-
-MIT License
+- Slider and input field controls for precise adjustment
+- Customizable swatch presets for quick selection
+- Full accessibility attributes for screen readers

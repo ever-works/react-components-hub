@@ -9,11 +9,9 @@ React Form Validator provides real-time validation capabilities for React forms 
 - Custom validation rule definitions
 - Field-level error highlighting
 - Integration with popular form libraries
+- Conditional validation rules
+- TypeScript support
 
-## Installation
+## Pricing
 
-`npm install react-form-validator`
-
-## License
-
-MIT License
+Free and open-source under the MIT license.

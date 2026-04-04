@@ -22,44 +22,9 @@ Glide.js is a dependency-free JavaScript ES6 slider and carousel library. With a
 - Center mode
 - RTL support
 
-## Features
-
-- Autoplay with pause on hover
-- Multiple slides per view
-- Gap between slides
-- Breakpoints for responsive behavior
-- Anchors and navigation
-- Touch/mouse dragging
-- Keyboard navigation
-- ARIA labels
-
-## Modular Components
-
-- Autoplay
-- Breakpoints
-- Controls (arrows)
-- Keyboard
-- Swipe
-- Images (lazy loading)
-- Anchors (bullet navigation)
-
 ## Performance
 
 Highly optimized with requestAnimationFrame for smooth 60fps animations. Minimal DOM manipulation and efficient event handling.
-
-## Browser Support
-
-Supports all modern browsers (Chrome, Firefox, Safari, Edge). IE11 support with polyfills.
-
-## Use Cases
-
-- Product showcases
-- Image galleries
-- Content sliders
-- Hero carousels
-- Testimonial rotators
-- Feature highlights
-- Portfolio displays
 
 ## Pricing
 

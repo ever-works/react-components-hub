@@ -5,10 +5,12 @@ React Virtualized Table optimizes rendering of large datasets by only rendering 
 ## Features
 
 - Row virtualization for thousands of rows
-- Auto-measuring row heights
+- Auto-measuring row heights for variable content
 - Column resizing and sorting
-- Keyboard navigation
-- Custom row components
+- Keyboard navigation with accessibility support
+- Custom row and cell component rendering
+- Sticky headers during scroll
+- Dynamic column width configuration
 
 ## Installation
 

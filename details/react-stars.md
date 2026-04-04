@@ -5,6 +5,7 @@ React Stars is a minimalistic star rating component for React applications. It s
 ## Features
 
 - Customizable star fill color and size
+- Half-star rating support
 - Hover preview of rating
 - Keyboard navigation support
 - Callbacks for rating changes

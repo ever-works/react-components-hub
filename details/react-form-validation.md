@@ -1,19 +1,16 @@
 ## Overview
 
-React Form Validation provides real-time validation for React forms with customizable rules and user feedback.
+React Form Validation provides real-time validation capabilities for React forms with support for custom validation rules and user-friendly error messages.
 
 ## Features
 
-- Real-time validation as users type
-- Support for custom validation rules
-- Error message display
-- Integration with form state management
-- Accessibility attributes
+- Schema-based validation configuration
+- Async validation for server-side checks
+- Custom validation rule definitions
+- Dynamic error message templates
+- Integration with popular form libraries
+- Zero external dependencies
 
-## Installation
+## Pricing
 
-`npm install react-validation`
-
-## License
-
-MIT License
+Free and open-source under the MIT license.
